@@ -81,7 +81,7 @@ const Header = () => {
         {/* ===== Right Image ===== */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="/home-hero.webp"
+            src="public/home-hero.webp"
             alt="Frontend Mentor Preview"
             className="w-full max-w-md md:max-w-lg rounded-2xl shadow-lg object-cover"
           />

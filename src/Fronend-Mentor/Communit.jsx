@@ -69,31 +69,31 @@ const Communit = () => {
   const cards = [
     {
       text: "This platform provides everything developers need to improve their skills. The community is great, and the challenges keep me motivated, instill accountability through regular submissions, and allow me to build a professional portfolio by showcasing diverse projects.",
-      img: "/images-1.avif",
+      img: "public/images-1.avif",
       name: "Francesca",
       handle: "@frrann",
     },
     {
       text: "Frontend Mentor eliminated the hurdle of sourcing designs, letting me focus on development. Their professional projects, especially in the Pro subscription, challenge me to create complex, multi-page websites. With a supportive community and feedback from advanced programmers.",
-      img: "/images.avif",
+      img: "public/images.avif",
       name: "Alfie",
       handle: "@alfiemitchell123",
     },
     {
       text: "Frontend Mentor transformed me from a newbie to a pro developer, helping me make responsive, accessible websites.Frontend Mentor transformed me from a newbie to a pro developer, helping me make responsive, accessible websitesFrontend Mentor transformed me from a newbie to a pro.",
-      img: "/images-2.jpg",
+      img: "public/images-2.jpg",
       name: "Hikmah",
       handle: "@Hikmahx",
     },
     {
       text: "Frontend Mentor has helped tremendously. Working on the newbie challenges really helped me get better at building layouts. Also, it increased my JavaScript skills. Working with APIs, DOM manipulation, and so on greatly increased my knowledge. Would totally recommend it.",
-      img: "/images.avif",
+      img: "public/images.avif",
       name: "Liam",
       handle: "@liamdev",
     },
     {
       text: "After completing a software bootcamp, Frontend Mentor let me build real-world projects, strengthening my developer skills. I wouldn’t be where I am today without it.strengthening my developer skills. I wouldn’t be where I am today without it.",
-      img: "/images-1.avif",
+      img: "public/images-1.avif",
       name: "Sophia",
       handle: "@sophiacodes",
     },

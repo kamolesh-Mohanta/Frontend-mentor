@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import About from './Fronend-Mentor/About'
 import Header from './Fronend-Mentor/Header'
@@ -15,13 +13,13 @@ function App() {
   return (
     <>
     {/* <h2>Hello World</h2> */}
-    <About />
-      <Header />
-   <Section />
-   <Work />
-     <Choose />
-   <Communit />
-    <Footer />
+  <About />
+  <Header />
+  <Section />
+  <Work />
+  <Choose />
+  <Communit />
+  <Footer />
   
     </>
   )
