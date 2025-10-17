@@ -88,7 +88,7 @@ const About = () => {
         {/* ===== Left Side: Logo + Name ===== */}
         <div className="flex items-center gap-3">
           <img
-            src="public/logo-mobile.svg"
+            src="logo-mobile.svg"
             alt="Frontend Mentor"
             className="w-10 h-10 md:w-12 md:h-12 rounded-md"
           />
